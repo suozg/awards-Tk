@@ -34,10 +34,10 @@ import sys
 title_window=f'AWARDS OF THE UKRAINIAN HEROES'
 
 # версія додатку
-version_prog = "4.1"
+version_prog = "3.99"
 
 # дефолтний путь к файлу з базою даних 
-database_file_path = 'awards_v4e.db'  # Replace with the actual file path you want to check
+database_file_path = 'awards_v399.db'  # Replace with the actual file path you want to check
 
 
 # операційна система
